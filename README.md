@@ -1,16 +1,32 @@
 ## Hi there 👋
+# 👋 Olá! I'm Hynayara Francine
 
-<!--
-**Hynayara/Hynayara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Computing & IT Student | 🚀 Career Changer | 🇧🇷 → 🇮🇪
 
-Here are some ideas to get you started:
+After 10+ years leading teams and running my own business in Brazil, I'm now pursuing my passion for technology at **CCT College Dublin** (graduating 2028).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎯 What I'm About
+- **Former:** Head of Operations (30+ team members) & Entrepreneur (5 years)
+- **Now:** Building foundational skills in software development, databases, and networking
+- **Goal:** Land my first tech internship and contribute to meaningful projects
+
+### 🛠️ Tech Stack (Learning)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### 📊 GitHub Stats
+![Hynayara's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hynayara&show_icons=true&theme=radical)
+
+### 🌟 Featured Projects
+- 🎓 **College Projects:** Academic work from CCT College Dublin
+- 💳 **Cartao:** Web development project (HTML/CSS)
+
+### 📫 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/hynayara-francine)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hynayarahfo@gmail.com)
+
+---
+
+⭐ **Fun fact:** I make a mean cappuccino while debugging code! ☕💻
