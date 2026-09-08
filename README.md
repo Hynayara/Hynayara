@@ -1,5 +1,5 @@
 ## Hi there 👋
-# 👋 Olá! I'm Hynayara Francine
+# 👋 Hi! I'm Hynayara Francine
 
 ## 💻 Computing & IT Student | 🚀 Career Changer | 🇧🇷 → 🇮🇪
 
